@@ -11,6 +11,10 @@ This is my first project for The Odin Project, I will be using everthing I have 
 - CSS
 
 ## Image Credits:
-
+*Photo by [Ann H](https://www.pexels.com/@ann-h-45017/) on [Pexels](www.pexels.com)
+*Photo by [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov/) on [Pexels](www.pexels.com)
+*Photo by [Lisa From Pexels](https://www.pexels.com/@fotios-photos/) on [Pexels](www.pexels.com)
+*Photo by [Davide Baraldi](https://www.pexels.com/@davideibiza/) on [Pexels](www.pexels.com)
+*Photo by [Christina Morillo](https://www.pexels.com/@divinetechygirl/) on [Pexels](www.pexels.com)
 ## Contact
 Joseph Abbey (abbeyjoephotos@gmail.com)
