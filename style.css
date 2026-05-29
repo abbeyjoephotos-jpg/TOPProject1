@@ -86,6 +86,7 @@ button {
 }
 
 .pic-boxes img {
+    border: 6px solid lightskyblue;
     border-radius: 10px;
     height: 250px;
     width: 250px;
